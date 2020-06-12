@@ -1,0 +1,14 @@
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\bin\Debug\HichamBaydoun_Project.exe.config
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\bin\Debug\HichamBaydoun_Project.exe
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\bin\Debug\HichamBaydoun_Project.pdb
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.csprojResolveAssemblyReference.cache
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.MainForm.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Patient.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Properties.Resources.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.csproj.GenerateResource.Cache
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.exe
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.pdb
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Doctor.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Appointment.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Speciality.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Project\HichamBaydoun_Project\obj\Debug\HichamBaydoun_Project.Location.resources
