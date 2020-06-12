@@ -1,4 +1,4 @@
-Theses are some desktop application I made for university assignments and projects + databases
+Theses are some desktop applications with databases I made as university assignments and projects
 - Patient / Doctor Appointment System - disconnected ADO.net, Datasets
 - Trip Reservation App - ADO.net
 - Bank Management - ADO.net
