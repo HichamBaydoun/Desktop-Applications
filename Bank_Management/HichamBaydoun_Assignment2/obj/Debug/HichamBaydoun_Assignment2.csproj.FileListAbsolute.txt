@@ -1,0 +1,12 @@
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\bin\Debug\HichamBaydoun_Assignment2.exe.config
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\bin\Debug\HichamBaydoun_Assignment2.exe
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\bin\Debug\HichamBaydoun_Assignment2.pdb
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.Form1.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.Properties.Resources.resources
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.csproj.GenerateResource.Cache
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.exe
+C:\Users\Hicha\OneDrive\Desktop\Visual Programming\My Projects\HichamBaydoun_Assignment2\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.pdb
+C:\Users\Hicha\OneDrive\Desktop\Bank_Management\HichamBaydoun_Assignment2\bin\Debug\HichamBaydoun_Assignment2.exe.config
+C:\Users\Hicha\OneDrive\Desktop\Bank_Management\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.exe
+C:\Users\Hicha\OneDrive\Desktop\Bank_Management\HichamBaydoun_Assignment2\obj\Debug\HichamBaydoun_Assignment2.pdb
